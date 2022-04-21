@@ -1,0 +1,50 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.margin{
+   border: 20px solid orange;
+    width: 724px;
+    height: 460px;
+
+}
+
+.header{
+    padding-left: 25%;
+    padding-top: 5%;
+}
+
+.border{
+    border:20px solid yellow;
+    width: 684px;
+    height: 420px;
+    
+    /* background-color: aqua; */
+}
+
+.padding{
+    border: 20px solid greenyellow;
+    width: 644px;
+    height: 380px;
+    
+}
+
+.box3{
+    border: 20px solid blue;
+    width: 604px;
+    height: 340px;
+}
+
+
+
+
+
+
+/* .content{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+} */
